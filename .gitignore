@@ -12,4 +12,8 @@ local/
 .stack-work/
 *.lock
 .DS_Store
-
+*.ibc
+*.thy~
+.history
+.lamfun
+ChangeLog.md

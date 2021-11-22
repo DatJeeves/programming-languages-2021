@@ -1,9 +1,15 @@
 # Discussion Topics 
 
-Thanks to everybody who contributed links (Sam Balco, Chris Chang, Matt Raymond, ... ).
+Thanks to everybody who contributed links (Sam Balco, Chris Chang, Pablo Labbate, Matt Raymond, ... ).
 
 ## New for 2021: 
 
+- [The Web's Freedom Fallacy](https://ez.substack.com/p/the-webs-freedom-fallacy). If you are interested in blockchain, decentralised social media and their intersection with law this article has some interesting links to follow.  
+- [Facebook fights spam with Haskell](https://engineering.fb.com/2015/06/26/security/fighting-spam-with-haskell/). "The Haskell-powered Sigma now runs in production, serving more than one million requests per second. [...] We haven’t seen any crashes in either the Haskell runtime or the Haskell code itself across our whole fleet."
+- [How to make a bad programming language](https://www.youtube.com/watch?v=2mnYf7L7Amw).
+- Erik Meijer on [The Programming Language World Today](https://www.youtube.com/watch?v=NKeHrApPWlo#t=14m55s), 2017.
+- John Hughes in Computerphile on [Functional Programming & Haskell](https://www.youtube.com/watch?v=LnX3B9oaKzw).
+- Controlling Complexity in Software Engineering: [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8#t=16m26s).
 - An [interpreter](https://github.com/Hirrolot/metalang99/blob/master/examples/lambda_calculus.c) for lambda calculus using the C preprocessor.
 - Bob Coecke on [Quantum Natural Language Processing](https://www.youtube.com/watch?v=5YZG96t8SLQ), [Bob Coecke and Stephen Wolfram](https://www.youtube.com/watch?v=8CUTXaGqvSQ&list=PLxn-kpJHbPx2xsLWXrRuZLFc9RxLhP42s&index=3).
 -  Douglas Rushkoff's [Survival of the Richest](https://medium.com/s/playback/douglas-rushkoff-survival-of-the-richest-eac5601b935b) became quite well-known, but I didn't know that his podcast mentions Haskell. The line is "I am more of the technology world's old country doctor ... I don't know the actual edge things ... I don't know how to program in Haskell". 
